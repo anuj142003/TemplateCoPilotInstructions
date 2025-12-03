@@ -330,11 +330,13 @@ make migrate           # Run database migrations
 
 ## Additional Resources
 
-- [Project Documentation](../docs/)
-- [Architecture Details](../docs/architecture.md)
-- [API Documentation](../docs/api/)
-- [Contributing Guide](../CONTRIBUTING.md)
-- [Development Workflow](../docs/development-workflow.md)
+- [Project Overview](./TEMPLATE-project-overview.md)
+- [Architecture Details](./TEMPLATE-architecture.md)
+- [Coding Standards](./TEMPLATE-coding-standards.md)
+- [Contributing Guide](./TEMPLATE-CONTRIBUTING.md)
+- [Development Workflow](./TEMPLATE-development-workflow.md)
+- [Deployment Guide](./TEMPLATE-deployment.md)
+- [Usage Guide](./TEMPLATE-USAGE-GUIDE.md)
 
 ## Questions or Clarifications
 
